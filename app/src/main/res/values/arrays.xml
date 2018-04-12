@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ld_activityScreenTitles">
+        <item>Reservation</item>
+        <item>Account</item>
+        <item>Timeline</item>
+        <item>Histories</item>
+        <item>My Insurrances</item>
+        <item>Offering Insurances</item>
+        <item>LOG OUT</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_home_32dp</item>
+        <item>@drawable/ic_users_32dp</item>
+        <item>@drawable/ic_timeline_32dp</item>
+        <item>@drawable/ic_health_histories_32dp</item>
+        <item>@drawable/ic_my_insurrance_32dp</item>
+        <item>@drawable/ic_insurance_32dp</item>
+        <item>@drawable/ic_logout_32dp</item>
+    </array>
+</resources>

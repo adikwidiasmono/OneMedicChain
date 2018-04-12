@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="320dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/et_creator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Creator"
+            android:inputType="text"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/et_creator_url"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Creator Image URL"
+            android:inputType="textUri"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/et_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Title"
+            android:inputType="text"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/et_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Content"
+            android:inputType="text"
+            android:singleLine="true" />
+
+
+        <EditText
+            android:id="@+id/et_hospital"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Hospital"
+            android:inputType="text"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/bt_save_timeline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@color/colorAccent"
+            android:text="Save" />
+    </LinearLayout>
+</LinearLayout>

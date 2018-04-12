@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OMC</string>
+    <string name="app_name_long">One Medical Data Chain</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+
+    <string name="insurrance_balance">Insurance Balance</string>
+    <string name="balance_currency">$</string>
+    <string name="balance_amount">524.99</string>
+</resources>

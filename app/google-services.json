@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619929893080",
+    "firebase_url": "https://one-medic-chain.firebaseio.com",
+    "project_id": "one-medic-chain",
+    "storage_bucket": "one-medic-chain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619929893080:android:a0b2d49a6f8985de",
+        "android_client_info": {
+          "package_name": "ndid.omc.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619929893080-aoop1akmt30878oc10mpcfukgjgmlvm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUm9ChkGqz88rmgubJ1-m40nlzd5doSgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
